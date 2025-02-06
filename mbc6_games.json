@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Net de Get - Minigame @ 100 (Japan)",
+    "title": "MINIGAME100",
+    "licensee": "Ubi Soft",
+    "destination": "Japan",
+    "mapper": "MBC6",
+    "rom": "1 MiB",
+    "ram": "32 KiB",
+    "sgb": false,
+    "cgb": "required",
+    "manufacturer_code": "BMVJ",
+    "header": "0C3B82CEED6666CCD0B3730830C0D08111F88890EDCCC6EE6DDDDD999BBBB67636EEECCCDDDC999FBBB9333E4D494E4947414D45313030424D564AC0413402053033050BCC3"
+  }
+]
