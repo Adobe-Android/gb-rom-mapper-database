@@ -6,7 +6,18 @@ body {
 #container {
     display: grid;
     grid-template-columns: repeat(4, auto); /* Adjust the number of columns based on layout needs */
-    gap: 10px; /* Space between columns */
+    gap: 15px; /* Space between columns */
+}
+
+.button {
+    padding: 20px;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #d0d0d0;
 }
 
 @media (max-width: 992px) {
