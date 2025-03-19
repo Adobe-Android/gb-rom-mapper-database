@@ -1,42 +1,42 @@
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById("nomapper-btn").addEventListener("click", function() {
-        loadData("../data/no_mapper_games.json", "container");
+        loadData("no_mapper_games.json", "container");
     });
 
     document.getElementById("mbc1-btn").addEventListener("click", function() {
-        loadData("../data/mbc1_games.json", "container");
+        loadData("mbc1_games.json", "container");
     });
     
     document.getElementById("mbc2-btn").addEventListener("click", function() {
-        loadData("../data/mbc2_games.json", "container");
+        loadData("mbc2_games.json", "container");
     });
 
     document.getElementById("mbc3-btn").addEventListener("click", function() {
-        loadData("../data/mbc3_games.json", "container");
+        loadData("mbc3_games.json", "container");
     });
 
     document.getElementById("mbc5-btn").addEventListener("click", function() {
-        loadData("../data/mbc5_games.json", "container");
+        loadData("mbc5_games.json", "container");
     });
 
     document.getElementById("mbc6-btn").addEventListener("click", function() {
-        loadData("../data/mbc6_games.json", "container");
+        loadData("mbc6_games.json", "container");
     });
 
     document.getElementById("mbc7-btn").addEventListener("click", function() {
-        loadData("../data/mbc7_games.json", "container");
+        loadData("mbc7_games.json", "container");
     });
 
     document.getElementById("huc1-btn").addEventListener("click", function() {
-        loadData("../data/huc1_games.json", "container");
+        loadData("huc1_games.json", "container");
     });
 
     document.getElementById("huc3-btn").addEventListener("click", function() {
-        loadData("../data/huc3_games.json", "container");
+        loadData("huc3_games.json", "container");
     });
 
     document.getElementById("tama5-btn").addEventListener("click", function() {
-        loadData("../data/tama5_games.json", "container");
+        loadData("tama5_games.json", "container");
     });
 });
 
