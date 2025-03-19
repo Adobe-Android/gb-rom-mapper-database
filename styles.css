@@ -10,14 +10,9 @@ body {
 }
 
 .button {
-    padding: 20px;
-    font-size: 16px;
-    background-color: #f0f0f0;
+    padding: 10px 20px;
+    font: inherit;
     cursor: pointer;
-}
-
-.button:hover {
-    background-color: #d0d0d0;
 }
 
 @media (max-width: 992px) {
