@@ -12,6 +12,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, auto); /* Adjust the number of columns based on layout needs */
     gap: 15px; /* Space between columns */
+    font-size: 14px;
 }
 
 img {
@@ -38,6 +39,7 @@ img {
 @media (max-width: 600px) {
     #container {
         grid-template-columns: repeat(1, auto); /* Use one column instead of four */
+        font-size: 12px;
     }
     img {
         width: 60px;
